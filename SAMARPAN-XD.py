@@ -1,1 +1,1 @@
-import cr-7
+import Cr7
